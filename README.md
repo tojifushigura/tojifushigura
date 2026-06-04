@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tojifushigura&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tojifushigura&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🔥 Activity
 
@@ -46,18 +38,6 @@
 
 ---
 
-### 📫 How to reach me
-
-<p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tojifushigura&style=for-the-badge&color=blueviolet" alt="Profile views" />
