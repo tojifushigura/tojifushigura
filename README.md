@@ -29,16 +29,6 @@
 
 ---
 
-
-### 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tojifushigura&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tojifushigura&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
